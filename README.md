@@ -1,1 +1,1 @@
-Ecommerce Store Bulit with Django Framework
+Ecommerce Store Built with Django Framework
